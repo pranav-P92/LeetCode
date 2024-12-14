@@ -10,3 +10,4 @@ class Solution:
             if maxReach >= len(nums) - 1:
                 return True
         return False
+        
