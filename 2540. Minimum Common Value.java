@@ -5,6 +5,7 @@
 //space complexity : O(1)
 
 
+
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
        int n=nums1.length-1;
@@ -13,6 +14,7 @@ class Solution {
        int m=nums2.length-1;
        int j=0;
        int mini=-1;
+
        while(i<=n && j<=m){
         if(nums1[i]<nums2[j]){
             i++;
