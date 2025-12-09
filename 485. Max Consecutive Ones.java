@@ -1,5 +1,8 @@
 //https://leetcode.com/problems/max-consecutive-ones/
 
+
+//time complexity : O(n)
+//space complexity : O(1)
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         int count=0;
