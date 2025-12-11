@@ -37,8 +37,7 @@ class Solution {
 
 
 //not recommended
-//since the window length is shorter, checking if the character are not same within the window increment the count value.
-
+//since the window size is fixed (3), we verify all characters inside it are unique. If the condition holds, we increment the count value.
 
 //time complexity : O(n)
 //space complexity : O(1)
