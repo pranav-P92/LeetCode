@@ -1,6 +1,5 @@
 //https://leetcode.com/problems/long-pressed-name/description/
 
-
 //2-pointer approach
 //time compelxity : O(n)
 //space complexity :O(1)
